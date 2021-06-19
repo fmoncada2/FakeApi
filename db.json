@@ -1,0 +1,14 @@
+{
+    "comentarios":[
+        {"id": 1, "email": "micorreo@midominio.com", "nombre": "Juan Perez", "entrada":"Comentario1"},
+        {"id": 2, "email": "anakarina@midominio.com", "nombre": "Ana Karina", "entrada":"Comentario2"},
+        {"id": 3, "email": "laurenjaureguia@midominio.com", "nombre": "Lauren Jauregui", "entrada":"Comentario3"},
+        {"id": 4, "email": "camilacabello@midominio.com", "nombre": "Camila Cabello", "entrada":"Comentario4"},
+        {"id": 2, "email": "wzeledong@midominio.com", "nombre": "Wendy Zeledòn", "entrada":"Comentario5"}
+    ],
+
+    "prducto":[
+        {"id": 1, "dspProducto": "Mi producto", "Decripcion": "Alguna descripcion corta"},
+        {"id": 2, "dspProducto": "Mi producto2", "Decripcion": "Alguna descripcion corta"}
+    ]
+}
